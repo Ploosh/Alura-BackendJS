@@ -14,10 +14,15 @@ Aqui fica registrada a minha jornada no curso de JavaScript focado em backend da
 
 - [Fundamentos do JavaScript: Arrays](https://cursos.alura.com.br/course/fundamentos-javascript-arrays)
 
-    [ ] O que são Arrays
+    - [ ] O que são Arrays
+    - [ ] Laços de Repetição
+    - [ ] Métodos Callback
+    - [ ] Mais Métodos de Array
 
-    [ ] Laços de Repetição
+- [Fundamentos do JavaScript: Objetos](https://cursos.alura.com.br/course/fundamentos-javascript-objetos)
 
-    [ ] Métodos Callback
-
-    [ ] Mais Métodos de Array
+    - [ ] O que são Objetos
+    - [ ] Manipulação de Objetos
+    - [ ] Percorrendo Objetos
+    - [ ] Prototype
+    - [ ] Orientação a objetos
